@@ -3,8 +3,8 @@
 
 void printStudentInfo() {
     setlocale(LC_ALL, "Russian");
-    std::cout << "Student: Êîëîìèéöåâ Èâàí Äåíèñîâè÷" << std::endl;
-    std::cout << "Group: Ì1Î-134ÁÂ-25" << std::endl;
+    std::cout << "Student: Коломийцев Иван Денисович" << std::endl;
+    std::cout << "Group: М1О-134БВ-25" << std::endl;
     std::cout << "Task: task_1" << std::endl;
 }
 
@@ -25,7 +25,7 @@ void printMatrix(const std::vector<std::vector<int>>& matrix) {
 
 int main() {
     printStudentInfo();
-    std::cout << "Âàøà ïðîáíàÿ ìàòðèöà:";
+    std::cout << "Ваша пробная матрица:";
     std::vector<std::vector<int>> demoMatrix = {
         {1, 2, 3},
         {4, 5, 6},
