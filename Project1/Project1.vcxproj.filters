@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="задание 1">
+      <UniqueIdentifier>{f6452d0c-ced9-4b0d-8877-abba3b41a132}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="задание 2">
+      <UniqueIdentifier>{0ffd7a4a-07f8-40d1-ae8f-2cf8f6e020ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="задание 3">
+      <UniqueIdentifier>{7010a874-26c1-4065-89e9-c980f3e8f55b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="задание 4">
+      <UniqueIdentifier>{1b5e3816-d200-4ac9-87b5-b1acf7536989}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="задание 4.cpp">
+      <Filter>задание 4</Filter>
+    </ClCompile>
+    <ClCompile Include="задание 3.cpp">
+      <Filter>задание 3</Filter>
+    </ClCompile>
+    <ClCompile Include="задание 2.cpp">
+      <Filter>задание 2</Filter>
+    </ClCompile>
+    <ClCompile Include="задание 1.cpp">
+      <Filter>задание 1</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
