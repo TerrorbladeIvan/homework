@@ -1,0 +1,20 @@
+1. Name: Kapitanskaya dochka
+   Author: Alexander Pushkin
+   Year: 1837
+----------
+2. Name: 1984
+   Author: George Orwell
+   Year: 1949
+----------
+3. Name: Krizhovnik
+   Author: Anton Chehov
+   Year: 1898
+----------
+4. Name: Officially Dead
+   Author: Richard Prescott
+   Year: 2005
+----------
+5. Name: Dracula
+   Author: Bram Stocker
+   Year: 1897
+----------
